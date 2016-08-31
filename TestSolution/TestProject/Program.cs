@@ -14,6 +14,11 @@ namespace TestProject
             Console.WriteLine("More changes");
         }
 
+        public void DoNothing()
+        {
+
+        }
+
         public void DoMoreOfNothing()
         {
 
