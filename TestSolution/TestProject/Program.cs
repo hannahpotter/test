@@ -13,5 +13,10 @@ namespace TestProject
             Console.WriteLine("This is a change");
             Console.WriteLine("More changes");
         }
+
+        public void DoMoreOfNothing()
+        {
+
+        }
     }
 }
